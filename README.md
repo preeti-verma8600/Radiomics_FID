@@ -39,10 +39,7 @@ Make sure you have the following libraries and packages installed before running
 1. Install/clone the required dependencies:
 
 ```
-To be able to work with this file, you will need to have downloaded the dataset. Please, follow the link below to access and download the txt zip file of shapes_6dof. 
-https://rpg.ifi.uzh.ch/davis_data.html
-
-Note: zipped repository already contains dataset folder
+To be able to work with this file, you will need to have downloaded the dataset. 
 
 ```
 
